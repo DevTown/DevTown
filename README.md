@@ -4,7 +4,7 @@ Hi 👋 My name is DevTown
 *   🌍  I'm based in Earth
 *   🖥️  See my portfolio at [Dev-Town.de](http://dev-town.de)
 *   🚀  I'm currently working on [Hector9000](http://github.com/H3c702)
-*   🧠  I'm learning Python .NET HTMl CSS There is always more to learn
+*   🧠  I'm learning Python .NET HTML CSS There is always more to learn
 *   🤝  I'm open to collaborating on OSS
 *   ⚡  Visit my Blog at[Dev-Town.de](https://dev-town.de)
 
