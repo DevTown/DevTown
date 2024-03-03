@@ -6,11 +6,8 @@ Hi 👋 My name is DevTown
 *   🚀  I'm currently working on [Hector9000](http://github.com/H3c702)
 *   🧠  I'm learning Python .NET HTMl CSS There is always more to learn
 *   🤝  I'm open to collaborating on OSS
-*   ⚡  Visit my Blog at[Dev-Town.de](https://dev-town.de)
+*   ⚡  Visit my Blog at [Dev-Town.de](https://dev-town.de)
 
-<a href="https://www.twitter.com/devtownde" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/devtownde?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>
                 
 <img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/86338?domain=https%3A%2F%2Fchaos.social%2F&style=social">
 
